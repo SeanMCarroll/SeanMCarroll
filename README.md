@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanMCarroll
 - 👀 I’m interested in real-time software and software education.
-- 🌱 I’m currently learning about Battlecode for a club I advise.
+- 🌱 I’m currently learning about teaching Git!
 - 💞️ I’m looking to collaborate on heuristics that developers use to partition objects or responsibilities among threads.
 - 📫 How to reach me - carrolls@trine.edu
 
